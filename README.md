@@ -27,14 +27,16 @@ I’m currently a 2nd-year B.E. Computer Science student at Shri Madhwa Vadiraja
 </p>
 
 
-## 🌟 Spotlight Achievement
+---
+## 🏆 Highlight: State Level Topper
 
-> ### 👑 Bharat BoudhIKS 2026 State Level Topper
-> **State:** Karnataka  
-> **Issued by:** Bharat BoudhIKS / SMVITM (2026)  
-> 
-> *Recognized as a State Level Topper in the Bharat BoudhIKS examination across Karnataka. This nationwide initiative promotes Indian Knowledge Systems among students.*
+**Bharat BoudhIKS Examination (2026) — Karnataka**
 
+![Issuer](https://img.shields.io/badge/Issuer-Bharat_BoudhIKS_%2F_SMVITM-FF9900?style=for-the-badge) ![Year](https://img.shields.io/badge/Year-2026-000000?style=for-the-badge)
+
+Recognized as a State Level Topper in the Bharat BoudhIKS examination across Karnataka. This nationwide initiative promotes Indian Knowledge Systems among students.
+
+---
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_adistar_adi/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adityanayak-adistar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adityanayak.sangamone@gmail.com)  
