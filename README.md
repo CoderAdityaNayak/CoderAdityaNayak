@@ -13,7 +13,17 @@ I’m currently a 2nd-year B.E. Computer Science student at SMVITM.<br>I’m pas
 ### 🏅 AWARDS
 * **Team Printango:** 🏆 Best Project Award for CSE A [IPBL EXHIBITION 2026]
 * **Team APIcalypse:** ☁️ Best Vultr Build Award
+## 📜 Certifications
 
+<p align="center">
+  <a href="https://verify.skilljar.com/c/5skxpzhxbnmj">
+    <img src="https://github.com/CoderAdityaNayak/CoderAdityaNayak/raw/main/claudecertificate1.png" width="400" alt="Claude Certificate 1">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://verify.skilljar.com/c/5qvuc5qbuf6w">
+    <img src="https://github.com/CoderAdityaNayak/CoderAdityaNayak/raw/main/claudecertificate2.png" width="400" alt="Claude Certificate 2">
+  </a>
+</p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_adistar_adi/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adityanayak-adistar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adityanayak.sangamone@gmail.com)  
