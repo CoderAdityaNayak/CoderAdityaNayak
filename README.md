@@ -1,55 +1,113 @@
-# 💫 ABOUT ME:
-I’m currently a 2nd-year B.E. Computer Science student at Shri Madhwa Vadiraja Institute of Technology and Management (smvitm ,bantakal) .<br>I’m passionate about building projects and exploring different areas of technology.
+# Hey, I'm Aditya 👋
 
+**B.E. Computer Science @ SMVITM, Bantakal** | Aspiring Software Engineer | Full-Stack Builder
 
-# 💻 TECH STACK:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)![Render](https://img.shields.io/badge/Render-%23000000.svg?style=flat&logo=render&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwindcss&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?style=flat&logo=python&logoColor=white) ![PyAutoGUI](https://img.shields.io/badge/PyAutoGUI-3776AB?style=flat&logo=python&logoColor=white)
+I build products that solve real problems. Focused on backend systems, AI integration, and hyperlocal solutions. Currently exploring Django, Claude API, and scalable architectures.
 
-## 🏆 ENGAGEMENT
-
-![Hackathons](https://img.shields.io/badge/Hackathons_Attended-3-6C63FF?style=flat&logo=hackerearth&logoColor=white) 
-![Events](https://img.shields.io/badge/Tech_Events_&_Workshops-5%2B-FF6B6B?style=flat&logo=meetup&logoColor=white)
-
-### 🏅 AWARDS
-* **Team Printango:** 🏆 Best Project Award for CSE A [IPBL EXHIBITION 2026]
-* **Team APIcalypse:** ☁️ Best Vultr Build Award
-## 📜 Certifications
-
-<p align="center">
-  <a href="https://verify.skilljar.com/c/5skxpzhxbnmj">
-    <img src="https://github.com/CoderAdityaNayak/CoderAdityaNayak/raw/main/claudecertificate1.png" width="400" alt="Claude Certificate 1">
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://verify.skilljar.com/c/5qvuc5qbuf6w">
-    <img src="https://github.com/CoderAdityaNayak/CoderAdityaNayak/raw/main/claudecertificate2.png" width="400" alt="Claude Certificate 2">
-  </a>
-  Recieved IBM SKILLSBUILD - CYBERSECURITY FUNDAMENTALS BADGE
-</p>
-
-
----
-## 🏆 Highlight: State Level Topper
-
-**Bharat BoudhIKS Examination (2026) — Karnataka**
-
-![Issuer](https://img.shields.io/badge/Issuer-Bharat_BoudhIKS_%2F_SMVITM-FF9900?style=for-the-badge) ![Year](https://img.shields.io/badge/Year-2026-000000?style=for-the-badge)
-
-Recognized as a State Level Topper in the Bharat BoudhIKS examination across Karnataka. This nationwide initiative promotes Indian Knowledge Systems among students.
+[Portfolio](https://adistarportfolio.netlify.app) • [LinkedIn](https://linkedin.com/in/adityanayak-adistar) • [Instagram](https://www.instagram.com/_adistar_adi/) • [Email](mailto:adityanayak.sangamone@gmail.com)
 
 ---
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_adistar_adi/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adityanayak-adistar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adityanayak.sangamone@gmail.com)  
+## 🎯 Featured Projects
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=CoderAdityaNayak&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=CoderAdityaNayak&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CoderAdityaNayak&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+### **Printango** — Hyperlocal Print Shop Booking Platform
+**Best Project Award, IPBL Exhibition 2026**
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+Multi-step booking flow with real-time order management. Built with Django backend, Supabase for auth/data, Leaflet.js for map discovery, Google OAuth, MailerSend for notifications, and PyAutoGUI for shopkeeper automation.
+
+**Stack:** Django | Supabase | Leaflet.js | TailwindCSS | PyAutoGUI | Google OAuth
 
 ---
-[![](https://visitcount.itsvg.in/api?id=CoderAdityaNayak&icon=0&color=7)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### **Guruvar** — Ed-Tech Learning Platform
+Voice-to-text transcription using OpenAI Whisper API with AI-powered Q&A system for personalized learning.
+
+**Stack:** Python | Whisper API | Groq API | Flask
+
+---
+
+### **Movie Review Sentiment Classifier**
+Trained NLP model achieving 86% F1-score on sentiment analysis across movie reviews. Demonstrates data preprocessing, model selection, and evaluation best practices.
+
+**Stack:** Python | Pandas | NumPy | scikit-learn
+
+---
+
+### **Weighnix** — IoT LPG Cylinder Monitor
+Real-time monitoring system for LPG cylinder levels. Won Best Hardware Project at DSU DevHack.
+
+**Stack:** Python | IoT | Hardware Integration
+
+---
+
+### **SafarSathii** — Trip Booking Prototype
+Quick prototype for group trip planning and booking coordination.
+
+**Stack:** JavaScript | React | Firebase
+
+---
+
+## 🏆 Awards & Recognition
+
+| Achievement | Event | Year |
+|---|---|---|
+| **State Level Topper** | Bharat BoudhIKS Examination, Karnataka | 2026 |
+| **Best Project Award** | IPBL Exhibition (Printango) | 2026 |
+| **Best Vultr Build Award** | APIcalypse (Team) | 2025 |
+| **Hardware Winner** | DSU DevHack (Weighnix) | 2025 |
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:** Python • JavaScript • HTML5 • CSS3
+
+**Backend:** Django • Flask • REST APIs
+
+**Frontend:** JavaScript • TailwindCSS • Leaflet.js
+
+**Databases & APIs:** Supabase • Firebase • Groq API • Claude API • Google OAuth • MailerSend
+
+**Tools & Platforms:** Git • Netlify • Vercel • Render • PyAutoGUI
+
+**Data & ML:** NumPy • Pandas • scikit-learn
+
+---
+
+## 📚 Certifications & Learning
+
+- **IBM SkillsBuild** — Cybersecurity Fundamentals Badge
+- **Claude AI Developer Certifications** — [Verify 1](https://verify.skilljar.com/c/5skxpzhxbnmj) | [Verify 2](https://verify.skilljar.com/c/5qvuc5qbuf6w)
+
+---
+
+## 🎓 Community & Speaking
+
+- **Django Workshop Speaker** — Delivered public teaching session on Django fundamentals (Sept 2025)
+- **Hackathon Participant** — 3+ hackathons attended
+- **Tech Events & Workshops** — 5+ events hosted/attended
+
+---
+
+## 📊 GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CoderAdityaNayak&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=CoderAdityaNayak&theme=dark&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CoderAdityaNayak&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+---
+
+## 🔗 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adityanayak-adistar) 
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/CoderAdityaNayak) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/_adistar_adi/) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adityanayak.sangamone@gmail.com)
+
+---
+
+> "The best way to predict the future is to build it." — Always shipping.
+
+![Visitor Count](https://visitcount.itsvg.in/api?id=CoderAdityaNayak&icon=0&color=7)
