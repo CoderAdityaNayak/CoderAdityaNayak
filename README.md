@@ -8,8 +8,15 @@ I’m currently a 2nd-year B.E. Computer Science student at SMVITM.<br>I’m pas
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
 
-Certifications : 
-[ai-fluency-framework-foundations][claude-101][Basics of Web Development]
+## 🏆 Engagements & Awards
+
+![Hackathons](https://img.shields.io/badge/Hackathons_Attended-3-6C63FF?style=flat&logo=hackerearth&logoColor=white) 
+![Events](https://img.shields.io/badge/Tech_Events_&_Workshops-5%2B-FF6B6B?style=flat&logo=meetup&logoColor=white)
+
+### 🏅 Honors
+* **Team Printango:** 🏆 Best Project Award for CSE A
+* **Team APIcalypse:** ☁️ Best Vultr Build Award
+* 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=CoderAdityaNayak&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=CoderAdityaNayak&theme=dark&hide_border=false)<br/>
