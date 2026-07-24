@@ -23,7 +23,18 @@ I’m currently a 2nd-year B.E. Computer Science student at Shri Madhwa Vadiraja
   <a href="https://verify.skilljar.com/c/5qvuc5qbuf6w">
     <img src="https://github.com/CoderAdityaNayak/CoderAdityaNayak/raw/main/claudecertificate2.png" width="400" alt="Claude Certificate 2">
   </a>
+  Recieved IBM SKILLSBUILD - CYBERSECURITY FUNDAMENTALS BADGE
 </p>
+
+
+## 🌟 Spotlight Achievement
+
+> ### 👑 Bharat BoudhIKS 2026 State Level Topper
+> **State:** Karnataka  
+> **Issued by:** Bharat BoudhIKS / SMVITM (2026)  
+> 
+> *Recognized as a State Level Topper in the Bharat BoudhIKS examination across Karnataka. This nationwide initiative promotes Indian Knowledge Systems among students.*
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_adistar_adi/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adityanayak-adistar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adityanayak.sangamone@gmail.com)  
