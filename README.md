@@ -14,7 +14,7 @@ I’m currently a 2nd-year B.E. Computer Science student at SMVITM.<br>I’m pas
 ![Events](https://img.shields.io/badge/Tech_Events_&_Workshops-5%2B-FF6B6B?style=flat&logo=meetup&logoColor=white)
 
 ### 🏅 Honors
-* **Team Printango:** 🏆 Best Project Award for CSE A
+* **Team Printango:** 🏆 Best Project Award for CSE A [IPBL EXHIBITION 2026]
 * **Team APIcalypse:** ☁️ Best Vultr Build Award
   
 # 📊 GitHub Stats:
