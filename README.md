@@ -37,6 +37,10 @@ I’m currently a 2nd-year B.E. Computer Science student at Shri Madhwa Vadiraja
 Recognized as a State Level Topper in the Bharat BoudhIKS examination across Karnataka. This nationwide initiative promotes Indian Knowledge Systems among students.
 
 ---
+## 🎙️ Talks & Workshops
+
+* **[Sept 2025] Gyan-Bit Session: Django for Beginners** — Delivered a public teaching session and live coded a Simple Interest Calculator web app. *(Mentored under Chandrashekhar Rao Kuthyar Sir)*.
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_adistar_adi/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adityanayak-adistar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adityanayak.sangamone@gmail.com)  
