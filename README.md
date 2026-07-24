@@ -1,5 +1,5 @@
 # 💫 ABOUT ME:
-I’m currently a 2nd-year B.E. Computer Science student at SMVITM.<br>I’m passionate about building projects and exploring different areas of technology.
+I’m currently a 2nd-year B.E. Computer Science student at Shri Madhwa Vadiraja Institute of Technology and Management (smvitm ,bantakal) .<br>I’m passionate about building projects and exploring different areas of technology.
 
 
 # 💻 TECH STACK:
