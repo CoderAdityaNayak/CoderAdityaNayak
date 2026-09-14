@@ -7,11 +7,11 @@ I’m currently a 2nd-year B.E. Computer Science student at Shri Madhwa Vadiraja
 
 ## 🏆 ENGAGEMENT
 
-![Hackathons](https://img.shields.io/badge/Hackathons_Attended-3-6C63FF?style=flat&logo=hackerearth&logoColor=white) 
-![Events](https://img.shields.io/badge/Tech_Events_&_Workshops-5%2B-FF6B6B?style=flat&logo=meetup&logoColor=white)
+![Hackathons](https://img.shields.io/badge/Hackathons_Attended-5-6C63FF?style=flat&logo=hackerearth&logoColor=white) 
+![Events](https://img.shields.io/badge/Tech_Events_&_Workshops-5+%2B-FF6B6B?style=flat&logo=meetup&logoColor=white)
 
 ### 🏅 AWARDS
-* **Team Printango:** 🏆 Best Project Award for CSE A [IPBL EXHIBITION 2026]
+* **Team Printango:** 🏆 Best Prototype Award [IPBL EXHIBITION 2026]
 * **Team APIcalypse:** ☁️ Best Vultr Build Award
 ## 📜 Certifications
 
