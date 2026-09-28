@@ -1,5 +1,14 @@
-# 💫 ABOUT ME:
-I’m currently a 2nd-year B.E. Computer Science student at Shri Madhwa Vadiraja Institute of Technology and Management (smvitm ,bantakal) .<br>I’m passionate about building projects and exploring different areas of technology.
+# 💫 About Me
+
+- 🎓 **Education:** 2nd Year B.E. in Computer Science Engineering
+- 🏛️ **College:** Shri Madhwa Vadiraja Institute of Technology & Management (SMVITM, Bantakal)
+- 🚀 **Focus:** Full-stack development & algorithmic problem-solving
+
+<br/>
+
+<a href="#">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1200&color=38BDF8&width=500&lines=Current+Role%3A+HackerRank+Campus+Crew;Current+Role%3A+Active+HackerRanker;Interests%3A+Web+Dev+%26+Open+Source;Status%3A+Always+building+%26+learning" alt="Roles & Interests" />
+</a>
 
 
 # 💻 TECH STACK:
