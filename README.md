@@ -15,10 +15,13 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)![Render](https://img.shields.io/badge/Render-%23000000.svg?style=flat&logo=render&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwindcss&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?style=flat&logo=python&logoColor=white) ![PyAutoGUI](https://img.shields.io/badge/PyAutoGUI-3776AB?style=flat&logo=python&logoColor=white)
 
 
-## 🏆 ENGAGEMENT
+## 🏆 Engagement
 
-![Hackathons](https://img.shields.io/badge/Hackathons_Attended-5-6C63FF?style=flat&logo=hackerearth&logoColor=white) 
-![Events](https://img.shields.io/badge/Tech_Events_&_Workshops-5+%2B-FF6B6B?style=flat&logo=meetup&logoColor=white)
+| Activity | Metric | Focus Area |
+| :--- | :--- | :--- |
+| ![Hackathons](https://img.shields.io/badge/Hackathons-5_Completed-6C63FF?style=for-the-badge&logo=devpost&logoColor=white) | **5+ Builds** | Rapid prototyping & team sprints |
+| ![Events](https://img.shields.io/badge/Workshops-5+_Attended-FF6B6B?style=for-the-badge&logo=google-cloud&logoColor=white) | **Hands-on** | Cloud, Web3, & System Design |
+
 
 ### 🏅 AWARDS
 * **Team Printango:** 🏆 Best Prototype Award [IPBL EXHIBITION 2026]
